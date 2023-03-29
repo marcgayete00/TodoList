@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="banner">Your TodoList</string>
+    <string name="addTask">Add task</string>
+    <string name="bannerAskTask"> Add a new task</string>
+    <string name="saveTask"> Save </string>
+    <string name="setDate"> Set Date </string>
+    <string name="taskNamePlaceHolder"> Introduce task name </string>
+
+
+</resources>
